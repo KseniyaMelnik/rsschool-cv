@@ -1,1 +1,1 @@
-https://KseniyaMelnik.github.io/rsschool-cv/cv
+https://KseniyaMelnik.github.io/rsschool-cv/
