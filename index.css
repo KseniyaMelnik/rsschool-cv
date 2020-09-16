@@ -1,0 +1,14 @@
+.content {
+    margin: auto;
+    background-color: rgb(123, 171, 190);
+    font-family: serif;
+}
+.footer {
+    margin: auto;
+    background-color: rgb(144, 187, 173);
+}
+.header {
+    margin: auto;
+    background-color: rgb(144, 187, 173);
+
+}
